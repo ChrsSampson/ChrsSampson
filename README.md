@@ -27,7 +27,11 @@ Im a Software Engingeer with a passion for building web applications. I have bee
 ![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=sass)
 ![Next.js](https://img.shields.io/badge/-Next.js-grey?style=for-the-badge&logo=next.js)
 ![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws)
-
+<br>
+![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github)
+![Mac OS](https://img.shields.io/badge/-Mac%20OS-grey?style=for-the-badge&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux)
 
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrsSampson)](https://github.com/ChrsSampson/github-readme-stats)
