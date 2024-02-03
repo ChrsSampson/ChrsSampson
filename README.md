@@ -2,10 +2,10 @@
 ---
 Im a Software Engingeer with a passion for building web applications. I have been in tech for over a decade now and have worked on a variety of projects. I have a passion for learning new technologies and building things that are useful to others. I am currently working on a few projects that I hope to share with the world soon.
 
-- 🔭 I’m currently working on new features and fixes for Note Monstr
-- 🌱 I’m currently learning python and C# so I can work on a wider range of projects 
+- 🔭 I’m currently working on new project using godot
+- 🌱 I’m currently learning python and vector math
 - 👯 I’m actively looking For job opportunities
-- 🥅 2023 Goals: Get a new Job
+- 🥅 2024 Goals: Get a new Job
 - ⚡ Fun fact: I Fight Combat Robots at NHRL
 
 ---
